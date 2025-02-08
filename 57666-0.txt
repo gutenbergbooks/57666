@@ -1,30 +1,7 @@
-Project Gutenberg's Famous leaders among men, by Sarah Knowles Bolton
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: Famous leaders among men
-
-Author: Sarah Knowles Bolton
-
-Release Date: August 10, 2018 [EBook #57666]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK FAMOUS LEADERS AMONG MEN ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57666 ***
 
 
 
-
-Produced by Martin Pettit and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive/American Libraries.)
 
 
 
@@ -38,7 +15,7 @@ Internet Archive/American Libraries.)
 |                                                 |
 +-------------------------------------------------+
 
-[Illustration: NAPOLÉON.]
+[Illustration: NAPOLÃ‰ON.]
 
 
 FAMOUS
@@ -164,12 +141,12 @@ NAPOLEON BONAPARTE.
 "The series of Napoleon's successes is absolutely the most marvellous in
 history. No one can question that he leaves far behind the Turennes,
 Marlboroughs, and Fredericks; but when we bring him up for comparison an
-Alexander, a Hannibal, a Cæsar, a Charles, we find in the single point
+Alexander, a Hannibal, a CÃ¦sar, a Charles, we find in the single point
 of marvellousness Napoleon surpassing them all....
 
 "Every one of those heroes was born to a position of exceptional
 advantage. Two of them inherited thrones; Hannibal inherited a position
-royal in all but the name; Cæsar inherited an eminent position in a
+royal in all but the name; CÃ¦sar inherited an eminent position in a
 great empire. But Napoleon, who rose as high as any of them, began life
 as an obscure provincial, almost as a man without a country. It is this
 marvellousness which paralyzes our judgment. We seem to see at once a
@@ -184,7 +161,7 @@ Napoleon has been more praised and villified, probably, than any man in
 history. Lanfrey, though careful as to facts, and Taine, are bitter,
 always ready to impute sinister motives. John S. C. Abbott is adulatory;
 Walter Scott cannot be impartial; and Bourrienne, the discarded private
-secretary, Madame de Rémusat, and the Duchess d'Abrantès, must be read
+secretary, Madame de RÃ©musat, and the Duchess d'AbrantÃ¨s, must be read
 with allowance for prejudice. Thiers, in his twenty volumes on "The
 Consulate and the Empire," gives a most valuable picture of the times,
 friendly to the great leader; John Codman Ropes's "First Napoleon" is
@@ -227,7 +204,7 @@ war. He wrote Paoli, in 1789, when he was twenty years old, "I was born
 when my country was sinking; the cries of the dying, the groans of the
 oppressed, and the tears of despair surrounded my cradle from my birth."
 
-The Duchess d'Abrantès tells this story of Napoleon's boyhood. When he
+The Duchess d'AbrantÃ¨s tells this story of Napoleon's boyhood. When he
 was seven years old, being accused by one of his sisters of eating a
 basket of grapes and figs, although he denied the offence, he was
 whipped and kept on bread and cheese for three days.
@@ -245,7 +222,7 @@ for Ajaccio. Through Marboeuf's influence three of the Bonaparte
 children were placed in fine schools,--Joseph, Marianna, and Napoleon,
 the last at the military school of Brienne, near Paris. Here he
 remained for five years. He was a quiet, studious lad, devoted to
-Plutarch's Lives and Cæsar's Commentaries. He was always trying to find
+Plutarch's Lives and CÃ¦sar's Commentaries. He was always trying to find
 out what made certain men great. He was easily at the head of his class
 in mathematics. His industry and perseverance were astonishing.
 
@@ -283,7 +260,7 @@ M. de l'Eguille, said: "A Corsican by birth and character, he will do
 something great if circumstances favor him."
 
 After a year at this school, he was made second lieutenant of artillery
-in the regiment of La Fère, in 1785. The next five years he passed at
+in the regiment of La FÃ¨re, in 1785. The next five years he passed at
 different military stations in France. He was always studying. He pored
 over maps and plans of fortresses. He read with avidity books on law,
 philosophy, theology, political economy, and various forms of
@@ -417,7 +394,7 @@ hundreds in the city who could not escape were deliberately shot in the
 streets and in their homes, so desperate had become the hate between
 Royalists and Republicans, or really Jacobins.
 
-Fouché, afterwards prominent under the Empire, wrote to a friend, Dec.
+FouchÃ©, afterwards prominent under the Empire, wrote to a friend, Dec.
 23: "We have only one way of celebrating victory. This evening we shoot
 two hundred and thirteen rebels. Adieu, my friend; tears of joy run down
 my cheeks, and my heart is overflowing."
@@ -457,7 +434,7 @@ nothing but the idea that it may be of use to the country gives me
 courage to bear its weight."
 
 Soon after this, to scatter such officers as himself, who were supposed
-to be Jacobin in tendency, Napoleon was ordered to La Vendée to put down
+to be Jacobin in tendency, Napoleon was ordered to La VendÃ©e to put down
 civil dissensions. He rebelled against being separated from the army of
 Italy. "You are too young," said Aubrey, the Girondist deputy, "to be
 commander-in-chief of artillery."
@@ -469,14 +446,14 @@ For refusing to proceed to his post, Napoleon's name was struck off the
 army lists, and again he was in Paris, out of employment. When he and
 Bourrienne took a stroll at evening on the Boulevards, and saw the rich
 young men on horseback, apparently living a life of ease and luxury,
-"dandies with their whiskers," says Madame Junot (Duchess d'Abrantès),
+"dandies with their whiskers," says Madame Junot (Duchess d'AbrantÃ¨s),
 Napoleon would exclaim bitterly, "And it is on such beings as these that
 Fortune confers her favors. How contemptible is human nature!"
 
 He told Count Montholon, when in exile at St. Helena, that at this time
 he came near committing suicide by throwing himself into the river. With
 head down, and meditating upon his determination, he ran against a
-plainly dressed man, who proved to be Démasis, a former comrade in the
+plainly dressed man, who proved to be DÃ©masis, a former comrade in the
 artillery.
 
 "What is the matter?" he said to Napoleon. "You do not listen to me! You
@@ -484,16 +461,16 @@ do not seem glad to see me! What misfortune threatens you? You look to
 me like a madman about to kill himself."
 
 Napoleon told him his needs, and his mother's poverty. "Is that all?"
-said Démasis. "Here are six thousand dollars in gold, which I can spare
+said DÃ©masis. "Here are six thousand dollars in gold, which I can spare
 without any inconvenience. Take them, and relieve your mother."
 
 Hardly aware of what he was doing, Napoleon grasped the money, and sent
-it to his mother. Afterwards he could find nothing of Démasis. Fifteen
+it to his mother. Afterwards he could find nothing of DÃ©masis. Fifteen
 years later, when the Empire was near its fall, Napoleon met him, made
 him accept sixty thousand dollars to repay the loan of six thousand, and
 appointed him director-general of the crown gardens, at a salary of six
 thousand dollars a year, and the honors of an officer in the household.
-He also provided a good situation for Démasis' brother.
+He also provided a good situation for DÃ©masis' brother.
 
 He never forgot a kindness. A humble shoemaker, who worked for him in
 these days of poverty, and waited for his pay, was always employed by
@@ -536,7 +513,7 @@ themselves if the necessity arose, and he took care to leave a way of
 retreat open to St. Cloud.
 
 The National Guards appeared on the morning of Oct. 5, 1795 (13th
-Vendémiaire, as the month was called by the Revolutionary Calendar), in
+VendÃ©miaire, as the month was called by the Revolutionary Calendar), in
 front of Napoleon's troops. All day the two armies were within fifteen
 paces of each other. At four o'clock in the afternoon, General Danican
 of the National Guards gave the signal for attack. Napoleon mounted his
@@ -552,7 +529,7 @@ never-failing courage, he had been equal to the emergency.
 Napoleon was made General of the Interior, with the command of Paris.
 The days of poverty were over. He found places for several of his
 family, and was much sought after by those in high position. He was
-especially good to the poor, and the Duchess d'Abrantès tells how he
+especially good to the poor, and the Duchess d'AbrantÃ¨s tells how he
 climbed to attics and went down into cellars to feed the hungry. As he
 was stepping out of his carriage one day at the home of the Duchess, a
 woman held her dead child before him. It had died from want. She had
@@ -569,7 +546,7 @@ Republic, and had been put to death by the Jacobins, because he was a
 Girondist, or moderate Republican.
 
 "I was so touched by this affectionate request," said Napoleon, "that I
-ordered it to be given to him. This boy was Eugène Beauharnais. On
+ordered it to be given to him. This boy was EugÃ¨ne Beauharnais. On
 seeing the sword he burst into tears. I felt so affected by his conduct,
 that I noticed and praised him much. A few days afterwards his mother
 came to return me a visit of thanks. I was struck with her appearance,
@@ -582,7 +559,7 @@ child of French parents, had been born in the Island of Martinique, Jan.
 major in the army, who introduced her to the court of Marie Antoinette,
 but who, with all his wealth and position, did not make her life a happy
 one. After four years of marriage and the birth of two children,
-Hortense and Eugène, to whom she was most tenderly attached, she and
+Hortense and EugÃ¨ne, to whom she was most tenderly attached, she and
 Beauharnais separated, and she returned to Martinique, but at his
 persistent request she came back to him after three years.
 
@@ -674,7 +651,7 @@ thanks!"
 Murat, his aide-de-camp, who afterwards married Napoleon's sister
 Caroline, and became King of Naples, was sent to Paris with the
 armistice proposed by the King of Sardinia, and Junot with the flags,
-which caused the greatest rejoicing. _Fêtes_ were celebrated at the
+which caused the greatest rejoicing. _FÃªtes_ were celebrated at the
 Champ de Mars, and Napoleon's name was honored as the conqueror of
 Italy.
 
@@ -768,13 +745,13 @@ Late in June, Josephine reached Milan, and for a brief period they were
 happy; but Napoleon was obliged very soon to be at the front. The war
 now centred about Mantua, which was strongly fortified. Seven or eight
 thousand French troops were besieging it, when it was ascertained that
-Würmser, the Austrian general, was marching against the French with
+WÃ¼rmser, the Austrian general, was marching against the French with
 seventy thousand men, in three armies, while Napoleon had but about
 forty-five thousand.
 
 At once the siege of Mantua was raised, the gun-carriages burned, the
 powder thrown into the river, the cannon spiked, and the French forces
-were led against Würmser.
+were led against WÃ¼rmser.
 
 Napoleon, with his usual celerity and tact,--he used to say, "War, like
 government, is mainly decided by tact,"--managed to defeat each of the
@@ -799,7 +776,7 @@ wounded, fifteen thousand taken prisoners, with seventy pieces of
 artillery, and twenty-two stands of colors. The latter were sent to
 Paris.
 
-Early in September, Napoleon again defeated Würmser at Bassano. After
+Early in September, Napoleon again defeated WÃ¼rmser at Bassano. After
 the battle, at midnight Napoleon rode over the battle-field by
 moonlight, the quiet broken only by the moans of the wounded and dying.
 Suddenly a dog sprang from beneath the cloak of his dead master, rushed
@@ -863,7 +840,7 @@ again. Death is no longer before me, and glory and honor are still in my
 breast.... Soon Mantua will be ours, and then thy husband will fold thee
 in his arms, and give thee a thousand proofs of his ardent affection. I
 shall proceed to Milan as soon as I can; I am a little fatigued. I have
-received letters from Eugène and Hortense. I am delighted with the
+received letters from EugÃ¨ne and Hortense. I am delighted with the
 children.... Adieu, my adorable Josephine. Think of me often. Death
 alone can break the union which sympathy, love, and sentiment have
 formed. Let me have news of your health. A thousand and a thousand
@@ -886,7 +863,7 @@ endure great reverses. She has given me a mind of marble. Thunder cannot
 ruffle it. The shaft merely glides along."
 
 Austria made another desperate effort to overcome Napoleon and save
-Würmser, shut up in Mantua. At four o'clock in the morning, Jan. 14,
+WÃ¼rmser, shut up in Mantua. At four o'clock in the morning, Jan. 14,
 1797, the battle of Rivoli began. For twelve hours Napoleon was in the
 hottest of the fight. Three horses were shot under him.
 
@@ -903,23 +880,23 @@ nights. No wonder the Austrians said, "The French do not march, they
 fly." Napoleon wrote, "The Roman legions used to make twenty-four miles
 a day; our men make thirty, and fight in the intervals." ...
 
-Würmser surrendered Mantua Feb. 3, 1797. Twenty-seven thousand men had
+WÃ¼rmser surrendered Mantua Feb. 3, 1797. Twenty-seven thousand men had
 died of wounds or sickness since the commencement of the siege. The
 horses had all been eaten, and the city could sustain itself no longer.
-Würmser had declared that he could hold out for a year. But Napoleon
-knew that so brave a marshal as Würmser would not surrender unless
+WÃ¼rmser had declared that he could hold out for a year. But Napoleon
+knew that so brave a marshal as WÃ¼rmser would not surrender unless
 reduced to the last extremity.
 
-He therefore allowed Würmser to retire with all his staff and two
+He therefore allowed WÃ¼rmser to retire with all his staff and two
 thousand cavalry. He surrendered to France eighteen thousand prisoners.
-Würmser wished to salute the young conqueror of twenty-seven; but
+WÃ¼rmser wished to salute the young conqueror of twenty-seven; but
 Napoleon had gone to Bologna, not liking to subject the marshal of
 seventy to humiliation. Lanfrey thinks this was done for effect, but
 there seems no good reason for always imputing bad motives to Napoleon.
 A man so worshipped by his soldiers, and, indeed, by the nation, had
 much that was noble and refined in his nature.
 
-Würmser, out of gratitude to Napoleon, saved his life at Bologna, by
+WÃ¼rmser, out of gratitude to Napoleon, saved his life at Bologna, by
 making known to him a plot to poison him.
 
 Napoleon now turned his attention towards the Papal States. The Pope had
@@ -986,7 +963,7 @@ happiness at the Serbelloni Palace. Josephine won every heart by her
 grace and her kindness. Napoleon said, "I conquer provinces, but
 Josephine wins hearts."
 
-Madame de Rémusat wrote: "Love seemed to come every day to place at her
+Madame de RÃ©musat wrote: "Love seemed to come every day to place at her
 feet a new conquest over a people entranced with its conqueror."
 
 The people waited to see Napoleon pass in and out of his palace. They
@@ -1000,7 +977,7 @@ incident to show Josephine's power over her husband. "He was absolutely
 faithful to her," says Saint-Amand, "and this at a time when there was
 not a beauty in Milan who was not setting her cap for him."
 
-Josephine owned a pug dog, Fortuné, which, when she was imprisoned in
+Josephine owned a pug dog, FortunÃ©, which, when she was imprisoned in
 the Reign of Terror, was brought to her cell with a letter concealed in
 his collar. Ever since she had been extremely fond of him. They were
 all at the Castle of Montebello, a few leagues from Milan, during the
@@ -1011,8 +988,8 @@ was given to understand that I might go away myself or share it with
 him. I was annoyed; but it was to take or to leave, and I yielded. The
 favorite was not so accommodating, and he left his mark on my leg."
 
-Fortuné barked at everything, and used to bite other dogs. The cook's
-dog, a mastiff, returned the bite one day, and killed Fortuné. Josephine
+FortunÃ© barked at everything, and used to bite other dogs. The cook's
+dog, a mastiff, returned the bite one day, and killed FortunÃ©. Josephine
 was in despair; but the mischief was done, and there was no help for it.
 
 Nov. 17 Napoleon left Milan, and, after a continued ovation along the
@@ -1137,7 +1114,7 @@ been spared.
 After the battle at Jaffa the French began the siege of St. Jean d'Acre,
 where Djezzar, which name signifies butcher, the head of the army,
 resided. The siege lasted sixty days. Sir Sidney Smith of England, with
-two ships of war, assisted the fort, and Phélippeaux, an old schoolmate
+two ships of war, assisted the fort, and PhÃ©lippeaux, an old schoolmate
 of Napoleon at Brienne, directed the artillery. Napoleon's battering
 train, sent forward by sea, had been taken by the English. The siege had
 to be raised, four thousand of the French being disabled, and the army
@@ -1150,7 +1127,7 @@ Smith made me miss my destiny."
 Napoleon defeated the Turks at Aboukir, July 25, with a loss to them of
 ten thousand men, and then, learning of the perilous condition of France
 in her wars with the allied powers, hastened to Paris, leaving General
-Kléber in charge in Egypt. Napoleon narrowly missed being captured by
+KlÃ©ber in charge in Egypt. Napoleon narrowly missed being captured by
 the English cruisers.
 
 France was overjoyed at his return. Bells were rung and bonfires
@@ -1164,18 +1141,18 @@ courteous to everybody, which had made him jealous. It probably came
 from Napoleon's brothers, who disliked her great influence over him.
 
 Josephine was nearly heart-broken. She had not seen Napoleon for a year
-and a half. Both Eugène and Hortense begged that Napoleon would take
+and a half. Both EugÃ¨ne and Hortense begged that Napoleon would take
 their mother back into his heart.
 
 Finally he opened his door, and with a stern look at Josephine, said to
-Eugène, then eighteen, who had just returned with him from Egypt, "As
+EugÃ¨ne, then eighteen, who had just returned with him from Egypt, "As
 for you, you shall not suffer for your mother's misdeeds; I shall keep
 you with me."
 
 With commendable spirit, the boy, who idolized his mother, replied, "No,
 General; I bid you farewell on the spot."
 
-Seeing his mistake, he pressed Eugène to his heart, folded Josephine in
+Seeing his mistake, he pressed EugÃ¨ne to his heart, folded Josephine in
 his arms, and sent for his brother Lucien, to show him how thoroughly he
 and Josephine were reconciled to each other.
 
@@ -1220,7 +1197,7 @@ Council of the Ancients and made a brief address. Then he went to the
 Council of the Five Hundred. It was five in the afternoon. At the sight
 of him they shouted, "Down with the Dictator! Down with the tyrant!"
 They brandished daggers and threatened his life. His soldiers hastened
-to his aid; and one grenadier, Thomé, had his clothes cut by a dagger.
+to his aid; and one grenadier, ThomÃ©, had his clothes cut by a dagger.
 Bourrienne says they were simply torn. Lucien Bonaparte, the president
 of the Five Hundred, left his seat in disgust at the tumult. He called
 upon the general and the soldiers "to execute the vote of the Ancients."
@@ -1232,7 +1209,7 @@ well as Italy.
 
 There is no doubt that a large majority of the people of France were
 rejoiced at the change in government. "Napoleon," says Alison in his
-History of Europe, "rivalled Cæsar in the clemency with which he used
+History of Europe, "rivalled CÃ¦sar in the clemency with which he used
 his victory. No proscriptions or massacres, few arrests or
 imprisonments, followed the triumph of order over revolution. On the
 contrary, numerous acts of mercy, as wise as they were magnanimous,
@@ -1243,7 +1220,7 @@ lamented the ear of the victor."
 On the 19th of February, 1800, Napoleon took up his residence in the
 Tuileries. His salary was five hundred thousand francs a year. Ten days
 before his removal to the Tuileries, Feb. 9, when the seventy-two flags
-taken from the Turks at Aboukir were placed in the Hôtel des Invalides,
+taken from the Turks at Aboukir were placed in the HÃ´tel des Invalides,
 a funeral oration was pronounced on Washington, who had died Dec. 14,
 1799. Napoleon issued this order to his army: "Washington is dead! That
 great man fought against tyranny. He established the liberty of his
@@ -1333,8 +1310,8 @@ of Napoleon."
 "The institutions now created," says Seeley, "and which form the
 organization of modern France, are, 1. The Restored Church, resting on
 the Concordat; 2. the University; 3. the judicial system; 4. the Codes:
-_Code Civil_, called _Code Napoléon_ Sept. 3, 1807, _Code de Commerce_,
-_Code Pénal_, _Code d'Instruction Criminelle_; 5. the system of local
+_Code Civil_, called _Code NapolÃ©on_ Sept. 3, 1807, _Code de Commerce_,
+_Code PÃ©nal_, _Code d'Instruction Criminelle_; 5. the system of local
 government; 6. the Bank of France; 7. the Legion of Honor."
 
 "My code will outlive my victories," said Napoleon, truly. He put the
@@ -1391,10 +1368,10 @@ Marengo is regarded by many as Napoleon's most masterful battle.
 Desaix's death was a sad blow to Napoleon. Savary found his body
 stripped of clothing, wrapped it in a cloak, laid it across a horse, and
 Napoleon had it carried to Milan to be embalmed. He said, "Victory at
-such a price is dear." Kléber was killed in Egypt on the same day. At
+such a price is dear." KlÃ©ber was killed in Egypt on the same day. At
 St. Helena, Napoleon said, "Of all the generals I ever had under my
-command, Desaix and Kléber possessed the greatest talent--in particular
-Desaix.... Kléber and Desaix were irreparable losses to France."
+command, Desaix and KlÃ©ber possessed the greatest talent--in particular
+Desaix.... KlÃ©ber and Desaix were irreparable losses to France."
 
 Napoleon returned to Milan and went in state to the Cathedral to the _Te
 Deum_, four days after the battle of Marengo. The people everywhere gave
@@ -1416,7 +1393,7 @@ thousand prisoners. The poem of Campbell is well known:--
 
 
 Finally a treaty of peace between France and Austria was signed at
-Lunéville, Feb. 9, 1801, followed March 27, 1802, by the treaty of
+LunÃ©ville, Feb. 9, 1801, followed March 27, 1802, by the treaty of
 Amiens, between France and England.
 
 Both countries rejoiced in the cessation of hostilities. Fox came over
@@ -1476,7 +1453,7 @@ hand to head the revolt of the people. Georges was arrested and executed
 with eleven of his companions.
 
 The Duke d'Enghien, Louis Antoine, Henri de Bourbon, son of the Duke of
-Bourbon, and a descendant of the great Condé who had done so much for
+Bourbon, and a descendant of the great CondÃ© who had done so much for
 France in her wars, was living at Ettenheim, under the protection of the
 Margrave of Baden, to be near the lady whom he loved, the Princess
 Charlotte de Rohan, and "to be ready," says Walter Scott, "to put
@@ -1529,7 +1506,7 @@ and sent Dec. 14, 1801, General Leclerc, who had married his pretty
 sister Pauline, with 25,000 men to Saint Domingo to re-establish French
 sovereignty. He was to send back to France any who rebelled. Toussaint
 L'Ouverture, who was among them, was imprisoned in the fortress of Joux,
-near Besançon, in Normandy, and died in ten months, away from his own
+near BesanÃ§on, in Normandy, and died in ten months, away from his own
 people, the victim of the spirit of conquest, which is not dead even in
 the nineteenth century. The climate destroyed the French army. Only two
 or three thousand ever returned. General Leclerc died, like the rest, of
@@ -1649,7 +1626,7 @@ caressing tone: 'Kiss her, papa, I beg of you;' then he was perfectly
 happy when his father and mother exchanged a kiss of peace."
 
 Hortense, the mother, was so prostrated with grief, that it was feared
-she would lose her reason. Madame de Rémusat says of her, "The Queen has
+she would lose her reason. Madame de RÃ©musat says of her, "The Queen has
 but one thought, the loss she has suffered; she speaks of only one
 thing, of _him_. Not a tear, but a cold, calm, and almost absolute
 silence about everything, and when she speaks she wrings every one's
@@ -1714,8 +1691,8 @@ scolded and forgave. "He could refuse Josephine nothing," says the same
 writer, "and she was really the only woman who had any influence over
 him."
 
-Napoleon made Josephine's son, Eugène, Viceroy of Italy,--he often said,
-"Eugène may serve as a model to all the young men of the age,"--returned
+Napoleon made Josephine's son, EugÃ¨ne, Viceroy of Italy,--he often said,
+"EugÃ¨ne may serve as a model to all the young men of the age,"--returned
 to Paris, and then started for his troops at Boulogne. There he waited
 for some days for his feet under Villeneuve, who, having been watched by
 the English, and in part crippled by them, failed to appear. He dared
@@ -1743,7 +1720,7 @@ than two hundred cannon. In the military annals there is no such
 defeat."
 
 Napoleon pushed on to Vienna, which he entered Nov. 14, and went to the
-palace of Schönbrunn. The Emperor Francis had fled, and joined the Tsar
+palace of SchÃ¶nbrunn. The Emperor Francis had fled, and joined the Tsar
 and the Russian army at Brunn. Thither Napoleon marched at once. On the
 night of Dec. 1, 1805, he mounted his horse to reconnoitre the enemy's
 lines. As he returned, going on foot from one watch-fire to another, he
@@ -1780,7 +1757,7 @@ Pitt of England. He looked long on the map of Europe, and said,
 "Henceforth we may close that map for half a century." He died Jan. 23,
 1806.
 
-On Napoleon's return to Paris he erected a column in the Place Vendôme
+On Napoleon's return to Paris he erected a column in the Place VendÃ´me
 to the Grand Army. It was constructed of cannon taken from the enemy,
 and has illustrations upon it of the campaigns of Ulm and Austerlitz. W.
 O'Connor Morris calls Austerlitz "the most perfect of battles on land,
@@ -1805,11 +1782,11 @@ fourteen million people. Napoleon was elected Protector of the
 Confederation.
 
 Russia now became an ally of Prussia, and war was declared against
-France Oct. 14, 1806. The double battle of Jena and Auerstädt was
+France Oct. 14, 1806. The double battle of Jena and AuerstÃ¤dt was
 fought, and the Prussians were completely defeated. Alison says, "The
 loss of the Prussians was prodigious; on the two fields there fell
 nearly twenty thousand killed and wounded, besides nearly as many
-prisoners.... Ten thousand of the killed and wounded fell at Auerstädt."
+prisoners.... Ten thousand of the killed and wounded fell at AuerstÃ¤dt."
 
 Napoleon entered Berlin in triumph Oct. 27, 1806, and established
 himself in the king's palace. He did not like the beautiful Queen
@@ -1819,7 +1796,7 @@ bulletins, and Josephine reproached him for "speaking ill of women."
 
 Napoleon visited the palace of Sans Souci to see the room where
 Frederick the Great died, still preserved as he left it, and then went
-to the church where he is buried. At the tomb, says General de Ségur,
+to the church where he is buried. At the tomb, says General de SÃ©gur,
 "Napoleon paused at the entrance in a grave and respectful attitude. He
 gazed into the shadow enclosing the hero's ashes, and stood thus for
 nearly ten minutes, motionless, silent, as if buried in deep thought."
@@ -1828,7 +1805,7 @@ Invalides in Paris, with the flags carried by his guard in the Seven
 Years' War.
 
 Early in November, Prince Hohenlohe surrendered twenty thousand
-Prussians to the French; and Blücher, whom Napoleon was to meet again at
+Prussians to the French; and BlÃ¼cher, whom Napoleon was to meet again at
 Waterloo, surrendered twenty thousand men and over five hundred
 officers.
 
@@ -1947,13 +1924,13 @@ provinces west of the Elbe were made into the kingdom of Westphalia, and
 another brother of Napoleon, Jerome, was placed upon a throne. He had
 married, when nineteen, Miss Elizabeth Patterson of Baltimore; but
 through Napoleon's influence the union was annulled, and he married, at
-twenty-three, Aug. 23, 1807, the daughter of the king of Würtemberg. She
+twenty-three, Aug. 23, 1807, the daughter of the king of WÃ¼rtemberg. She
 proved a noble woman. When her husband was dethroned in 1814, she
 refused to obtain a divorce, writing to her father: "Having been forced,
 by reasons of state, to marry the king, my husband, it has been granted
 me by fate to be the happiest woman in the world."
 
-Napoleon said of her at Saint Helena, "Princess Catherine of Würtemberg
+Napoleon said of her at Saint Helena, "Princess Catherine of WÃ¼rtemberg
 has, with her own hands, written her name in history."
 
 Napoleon returned to Paris after the peace of Tilsit, and was received
@@ -2018,10 +1995,10 @@ opportune time to make war on Napoleon. The latter raised another
 immense army,--Lanfrey says with much truth, "France was bleeding to
 death,"--marched against Austria, and several bloody battles resulted.
 
-At Eckmühl the Austrians, says Marbot, admitted a loss of five thousand
+At EckmÃ¼hl the Austrians, says Marbot, admitted a loss of five thousand
 killed, and fifteen thousand prisoners. Napoleon said at St. Helena,
 "The greatest military manoeuvres I ever made, and those for which I
-give myself most credit, were performed at Eckmühl."
+give myself most credit, were performed at EckmÃ¼hl."
 
 At Ratisbon the Emperor was wounded in the foot, just before the
 retaking. So wild were the soldiers at the news, that as soon as his
@@ -2030,7 +2007,7 @@ anxiety.
 
 After some other successes, Napoleon reached Vienna, May 10, the Emperor
 Francis having fled, as before, to a place of safety. Napoleon went at
-once to the royal palace of Schönbrunn.
+once to the royal palace of SchÃ¶nbrunn.
 
 The enemy were now on the left bank of the Danube. The spring rains had
 swollen the great river, and the crossing was most hazardous. In the
@@ -2085,7 +2062,7 @@ nearly as many as gun-fire."
 in crown pieces to each wounded soldier, and more than this to each
 officer."
 
-Oct. 14, 1809, the peace of Vienna was signed at Schönbrunn, between
+Oct. 14, 1809, the peace of Vienna was signed at SchÃ¶nbrunn, between
 France and Austria. "I committed a great fault after the battle of
 Wagram," said Napoleon at St. Helena, "in not reducing the power of
 Austria still more. She remained too strong for our safety, and to her
@@ -2115,7 +2092,7 @@ She became at once insensible; and Napoleon, alarmed, hastily called
 assistance and bore her to her room. He came to see her in the evening,
 and wept.
 
-Eugène determined at once to resign his position as Viceroy of Italy,
+EugÃ¨ne determined at once to resign his position as Viceroy of Italy,
 but his mother begged him to remain the friend of Napoleon.
 
 On Dec. 15, at the Tuileries, before the officers of the Empire, the
@@ -2123,11 +2100,11 @@ divorce was announced. Josephine was almost overcome by her sobs. "The
 Emperor will always find in me his best friend," she said, and so it
 proved.
 
-The next day the divorce was consummated before the Senate. Eugène
+The next day the divorce was consummated before the Senate. EugÃ¨ne
 announced the divorce, saying, "The tears of the Emperor do honor to my
 mother." Josephine, in a simple white muslin dress, leaning on the arm
 of Hortense, entered and signed the fatal decree. Both mother and
-daughter were in tears, as well as many of those present. Eugène, who
+daughter were in tears, as well as many of those present. EugÃ¨ne, who
 idolized his mother, fell fainting to the floor. That evening when
 Josephine thought her husband had retired, she came to his room, her
 eyes swollen with weeping, and tottering towards the bed fell upon his
@@ -2155,11 +2132,11 @@ love me?"
 Three months later, Mar. 11, 1810, Napoleon was married by proxy at
 Vienna, Archduke Charles representing him at the wedding, to Marie
 Louise, the daughter of Emperor Francis I. of Austria. He met her with
-his suite at the palace of Compiègne. She was eighteen, with light hair,
+his suite at the palace of CompiÃ¨gne. She was eighteen, with light hair,
 and blue eyes, and gentle in manner. Napoleon was forty.
 
 The civil marriage was celebrated at St. Cloud, April 1; and the next
-day they made their triumphal entry into Paris, by the Arc de l'Étoile,
+day they made their triumphal entry into Paris, by the Arc de l'Ã‰toile,
 to the Tuileries, amid the cheers of three hundred thousand people. The
 world must have been amazed at such a union of France and
 Austria,--nations which had been at war for years. No wonder Napoleon,
@@ -2297,7 +2274,7 @@ losses were also heavy.
 
 Prussia now joined herself to Russia, and declared war against France.
 Napoleon at once raised another army of nearly two hundred thousand by
-conscription, and defeated the enemy at Lützen, or Gross-Beeren, and
+conscription, and defeated the enemy at LÃ¼tzen, or Gross-Beeren, and
 Bautzen. His young conscripts fought heroically. His beloved Marshal
 Duroc was killed just after the latter battle. Napoleon wept as he left
 him dying, saying, "Duroc, there is another life.... We shall one day
@@ -2308,7 +2285,7 @@ and Russia. The marriage with Marie Louise had not won Napoleon friends,
 as he had fondly hoped.
 
 The allies now had five hundred thousand men, the Prussians under
-Blücher, the Austrians under Schwarzenberg. Upon Aug. 27, 1813, Napoleon
+BlÃ¼cher, the Austrians under Schwarzenberg. Upon Aug. 27, 1813, Napoleon
 defeated them at Dresden, where they left forty thousand on the field,
 half of whom were prisoners, but was himself defeated in the dreadful
 battle of Leipsic, Oct. 16-19.
@@ -2360,7 +2337,7 @@ from France of $500,000. He bade the Old Guard an affectionate good-by.
 heart. Let me at least embrace your general and your eagle." He put his
 arms around General Petit, and kissed the eagle on its silver beak. Amid
 the tears and sobs of his brave soldiers, on April 20, Napoleon drove
-away from Fontainebleau to Fréjus, and in the British frigate, The
+away from Fontainebleau to FrÃ©jus, and in the British frigate, The
 Undaunted, set sail for Elba, April 27, 1814.
 
 He had frequently written to Josephine through these melancholy months.
@@ -2429,12 +2406,12 @@ together over 200,000. He decided at once to take the offensive rather
 than let the allies invade France. He left Paris for Belgium, June 12,
 1815, taking with him about 120,000 men. He drove the Prussians out of
 Charleroi, and on June 16 gained a victory over the Prussian marshal,
-Blücher, at Ligny. Jomini, who is usually authentic, says Napoleon had
-72,000 in the battle, and Blücher from 80,000 to 90,000. It was a hotly
+BlÃ¼cher, at Ligny. Jomini, who is usually authentic, says Napoleon had
+72,000 in the battle, and BlÃ¼cher from 80,000 to 90,000. It was a hotly
 contested battle-field in which the Prussians lost from 12,000 to 20,000
 men. Thiers says 30,000.
 
-Blücher had his gray charger, given him by the Prince Regent of England,
+BlÃ¼cher had his gray charger, given him by the Prince Regent of England,
 shot under him, and was nearly killed in the retreat.
 
 The same day occurred the desperate battle of Quatre-Bras, in which
@@ -2446,7 +2423,7 @@ Thiers, were 70,000 in number; Seeley and Ropes say 72,000. Wellington
 had about 68,000.
 
 The ground was so drenched by rains that the battle was not begun till
-a little past eleven. Both sides fought desperately. Blücher, a few
+a little past eleven. Both sides fought desperately. BlÃ¼cher, a few
 miles to the right of Wellington, at Wavre, had promised to join him.
 Napoleon had told Marshal Grouchy to follow the Prussians and thus
 prevent their union with the English. He started too late for Wavre; he
@@ -2456,15 +2433,15 @@ at Waterloo. Ropes gives an interesting account of this in the _Atlantic
 Monthly_, June, 1881, "Who lost Waterloo?"
 
 All day long the battle raged. Hand to hand combats were constant. The
-battle seemed in favor of the French. Meantime Blücher was coming from
+battle seemed in favor of the French. Meantime BlÃ¼cher was coming from
 Wavre, with his guns sinking axle-deep in the mud. "We shall never get
-on," was heard on all sides. "We _must get on_," said the bluff Blücher;
+on," was heard on all sides. "We _must get on_," said the bluff BlÃ¼cher;
 "I have given my word to Wellington."
 
 Napoleon kept watching for Grouchy. Early in the afternoon about 30,000
 Prussians under Bulow had come to Wellington's assistance. Night came on
 and the firing of musketry was heard. "There's Grouchy!" said the
-Emperor. His aide-de-camp, Labédoyère, rushed to announce it to the
+Emperor. His aide-de-camp, LabÃ©doyÃ¨re, rushed to announce it to the
 army. "Marshal Grouchy is arriving, the Guard is going to charge.
 Courage! courage! 'tis all over with the English."
 
@@ -2473,7 +2450,7 @@ Chaboulon, ex-secretary of the Emperor; "the wounded who were still
 capable of taking a few steps returned to the combat, and thousands of
 voices eagerly repeated, Forward! forward!"
 
-It was not Grouchy, but Blücher with thirty or forty thousand fresh
+It was not Grouchy, but BlÃ¼cher with thirty or forty thousand fresh
 troops. The Imperial Guard did indeed charge with all their wonted
 impetuosity. They were mowed down like grain. Ney, with five horses shot
 under him, marched on foot with his drawn sword. Napoleon watched them,
@@ -2558,7 +2535,7 @@ not maintain their position after my death; a reaction in my favor will
 take place everywhere, even in England."
 
 Napoleon II. died at Vienna, July 22, 1832, at the age of twenty-one, of
-consumption, at Schönbrunn, the summer home of the Emperor. He expired
+consumption, at SchÃ¶nbrunn, the summer home of the Emperor. He expired
 upon the same narrow bed on which his father slept when he came as the
 conqueror of Austria. General Hartmann said, "Having passed my life on
 battle-fields, I have often seen death, but I never saw a soldier die
@@ -2617,8 +2594,8 @@ upon the floor.
 
 On the night of May 4 a tornado swept the island, uprooting the trees
 which the Emperor had planted. During the night, says Count Montholon,
-"Twice I thought I distinguished the unconnected words, '_France--armée,
-tête d'armée_ (head of the army)--Josephine.'"
+"Twice I thought I distinguished the unconnected words, '_France--armÃ©e,
+tÃªte d'armÃ©e_ (head of the army)--Josephine.'"
 
 During the whole of May 5 he lay quiet and peaceful, conscious, his
 right hand out of bed, seemingly absorbed in deep meditation. At eleven
@@ -2709,7 +2686,7 @@ several in Italy, and three or four at the siege of Saint Jean d'Acre.
 When his body was prepared for burial, it was found that there were
 several scars upon it, some slight, and three very distinct.
 
-He hated selfishness. Madame la Générale Durant, first lady to the
+He hated selfishness. Madame la GÃ©nÃ©rale Durant, first lady to the
 Empress Marie Louise, relates in her book, "Napoleon and Marie Louise,"
 that once, when Marie Louise said everybody was selfish, and that she
 was also, he replied, "Don't say, my Louise, that you are selfish; I
@@ -2766,7 +2743,7 @@ Everything in him astonishes me. His spirit overawes me, and his will
 confounds me. Between him and whoever else in the world there is no
 possible term of comparison."
 
-Napoleon compared the reign of Christ with that of Cæsar, Alexander,
+Napoleon compared the reign of Christ with that of CÃ¦sar, Alexander,
 Hannibal, and of himself; "My armies have forgotten me, even while
 living, as the Carthaginian army forgot Hannibal. Such is our power! A
 single battle lost crushes us, and adversity scatters our friends....
@@ -2951,10 +2928,10 @@ ready for the great opportunity if it ever came.
 As he was now on half-pay, he determined to go to France for a time to
 study the French language. Here he fell in love with Miss Andrews, one
 of the three daughters of an English clergyman. As his income was only
-£130 a year, he wrote his uncle, William Suckling, asking that he might
-be allowed £100 a year in addition, that he might be able to marry. This
+Â£130 a year, he wrote his uncle, William Suckling, asking that he might
+be allowed Â£100 a year in addition, that he might be able to marry. This
 request was granted; but Miss Andrews perhaps did not give her consent,
-or Nelson thought that £230 would not support a wife in much luxury, for
+or Nelson thought that Â£230 would not support a wife in much luxury, for
 she afterwards married a clergyman by the name of Farrer, and later
 Colonel Warne. Nelson evidently admired her greatly; for he wrote to his
 brother William, "She has such accomplishments, that, had I a million of
@@ -3347,8 +3324,8 @@ in his cabin. Finally, at the request of his friends, it was carried
 below. He was eventually buried in it.
 
 The joy at Napoleon's defeat was inexpressible. England made Nelson a
-baron, with a pension of £2,000 a year while he lived, to descend to his
-two male successors. The East India Company voted him £10,000, as they
+baron, with a pension of Â£2,000 a year while he lived, to descend to his
+two male successors. The East India Company voted him Â£10,000, as they
 had thus been saved from French conquest. The Emperor Paul of Russia
 sent him his portrait set in diamonds, in a gold box. The Sultan of
 Turkey sent a pelisse of sable fur valued at five thousand dollars, and
@@ -3357,7 +3334,7 @@ royal turbans. The Sultan's mother sent a box set in diamonds valued at
 five thousand dollars; the King of Sardinia a gold box set in diamonds;
 the King of the Two Sicilies a sword which once belonged to Charles III.
 of Spain. His friend Alexander Davison sent medals to the officers and
-men costing £2,000. These were all greatly prized by the men.
+men costing Â£2,000. These were all greatly prized by the men.
 
 Italy was as rejoiced at the defeat of the French as was England. When
 the news reached Naples, both the queen and Lady Hamilton fainted. Lady
@@ -3422,7 +3399,7 @@ shoot himself if the vessel sank. The little Prince Albert was taken ill
 on the morning of Dec. 25, and died at seven o'clock that evening in
 Lady Hamilton's arms.
 
-Naples for a time was transformed by the French into the Parthenopæan
+Naples for a time was transformed by the French into the ParthenopÃ¦an
 Republic, which later was abolished, and the insurgents put to death by
 Ferdinand. Nelson has been censured, and justly, for the execution, on
 board one of his ships, the Foudroyant, of Francesco Caracciolo, who
@@ -3433,13 +3410,13 @@ not to interfere. The prisons of Naples were indeed slaughter pens; but
 wars are never humane, and struggles between despotism and liberty are
 rarely bloodless.
 
-Ferdinand rewarded Nelson with the Sicilian dukedom of Brontë, with an
-estate worth about £3,000 per annum. Nelson at once gave from this
-estate an annuity of £500 for life to his father. He had already given
-out of the £10,000 voted him by the East India Company, five hundred
+Ferdinand rewarded Nelson with the Sicilian dukedom of BrontÃ«, with an
+estate worth about Â£3,000 per annum. Nelson at once gave from this
+estate an annuity of Â£500 for life to his father. He had already given
+out of the Â£10,000 voted him by the East India Company, five hundred
 pounds each to his father, his brother-in-law, Mr. Bolton, his sister,
 Mrs. Matcham, and his brothers Maurice and William. When his brother
-Maurice died in April, 1801, Nelson gave his blind widow £100 a year
+Maurice died in April, 1801, Nelson gave his blind widow Â£100 a year
 while he lived, and Lady Hamilton cared for her after his death. He
 wrote to his wife, "If I were rich I would do more. To my father say
 everything which is kind. I love, honor, and respect him as a father and
@@ -3496,7 +3473,7 @@ sitting.
 
 For two months Lord Nelson and his wife lived, as might be supposed,
 most unhappily, when he determined to leave her forever, settling upon
-her £1,600 per year. He wrote to his friend Davison, "Sooner than live
+her Â£1,600 per year. He wrote to his friend Davison, "Sooner than live
 the life I did when last I came to England, I would stay abroad
 forever." The last time he saw her, Jan. 13, 1801, before he left for
 the Baltic, he said at parting, "I call God to witness there is nothing
@@ -3552,7 +3529,7 @@ the answer, "I were to make all my brave officers admirals, I should
 have no captains or lieutenants in my service."
 
 Nelson, brave to rashness himself, admired it in others. When, early in
-1800, in the Mediterranean, Le Généreux, one of the ships that had
+1800, in the Mediterranean, Le GÃ©nÃ©reux, one of the ships that had
 escaped at the battle of the Nile, was captured, Nelson patted the head
 of a little midshipman, who was very pale, and asked him how he
 relished the music. He told the boy how Charles XII. ran away from the
@@ -3598,15 +3575,15 @@ Premier:--
 
      "Whenever it is necessary, I am _your_ admiral.
 
-     NELSON AND BRONTË."
+     NELSON AND BRONTÃ‹."
 
 
 April 6, 1803, Sir William Hamilton died, holding his wife's and
 Nelson's hands, saying, "Protect my dear wife; and may God bless you,
 and give you victory and protect you in battle!" He bequeathed to Nelson
 a copy of a picture of his wife by Madame Le Brun in enamel. To her he
-gave a legacy of £800, and an annuity of £800 for life. Sir William's
-pension of £1,200 a year closed with his death, and, as the government
+gave a legacy of Â£800, and an annuity of Â£800 for life. Sir William's
+pension of Â£1,200 a year closed with his death, and, as the government
 did not continue it, in spite of Sir William's dying wishes, Nelson gave
 the amount to her, in monthly portions, while he lived.
 
@@ -3657,7 +3634,7 @@ Twiss, "Time, Twiss, time is everything. Five minutes makes the
 difference between a victory and a defeat."
 
 He was extremely generous. When one of his men, Captain Parker, died, he
-paid his debts and funeral expenses, about £200. He spent very little
+paid his debts and funeral expenses, about Â£200. He spent very little
 for himself, and much for others.
 
 It was thought that there would be a battle on Saturday, Oct. 19; and
@@ -3791,7 +3768,7 @@ seen the tears on my cheek and conjectured that I was an Englishman; and
 several, as they held my hand, themselves burst into tears."
 
 Nelson was buried Jan. 9, 1806, in St. Paul's Cathedral, London, at a
-public expense of £14,000. Ten thousand troops preceded the body of the
+public expense of Â£14,000. Ten thousand troops preceded the body of the
 hero to the tomb. The streets were lined with thousands of troops and
 hundreds of thousands of weeping spectators. The coffin was drawn
 uncovered, under a canopy, upon a car, having at its front and back a
@@ -3818,19 +3795,19 @@ lions by Landseer are at the base.
 
 The government awarded various honors to Nelson's family. An earldom was
 conferred on Nelson's brother, the Reverend William, with a pension of
-£5,000 a year, with £120,000 that he might purchase an estate; £20,000
+Â£5,000 a year, with Â£120,000 that he might purchase an estate; Â£20,000
 of this gift were to be divided between Nelson's sisters, Mrs. Bolton
-and Mrs. Matcham. Lady Nelson received £2,000 per annum till her death,
+and Mrs. Matcham. Lady Nelson received Â£2,000 per annum till her death,
 May 4, 1831, twenty-five years after the death of Lord Nelson.
 
 Nelson's dying request for Lady Hamilton and their child, Horatia, was
-disregarded by the government. Nelson left her by will £2,000, an
-annuity for life of £500 charged on the Bronte estate, Merton Place, and
-the yearly interest on £4,000 settled on Horatia till she became
+disregarded by the government. Nelson left her by will Â£2,000, an
+annuity for life of Â£500 charged on the Bronte estate, Merton Place, and
+the yearly interest on Â£4,000 settled on Horatia till she became
 eighteen.
 
 Lady Hamilton survived Nelson nine years, dying Jan. 16, 1815, in
-apartments in the Rue Française at Calais, at the age of fifty-one. She
+apartments in the Rue FranÃ§aise at Calais, at the age of fifty-one. She
 lost Merton Place, in Surrey, through debts. She was imprisoned for debt
 at the King's Bench, 12 Temple Place, in 1813, and was discharged after
 some months, by a city alderman, J. J. Smith, who felt that she had been
@@ -4529,7 +4506,7 @@ Norwegian, Lithuanian, Finnish, Lettish, Esthonian, and Russ; in
 _Eastern Europe_--in Servian, Bulgarian, Bohemian, Hungarian, and
 Polish; and in _Southern Europe_--in French, Italian, Spanish,
 Portuguese, and Romaic, or modern Greek. In _Asia_, it may be met with
-in Hebrew, Arabic, Modern Syriac, Armeno-Turkish, Græco-Turkish, and
+in Hebrew, Arabic, Modern Syriac, Armeno-Turkish, GrÃ¦co-Turkish, and
 Armenian. Farther to the south, also, it is seen in Pashtu, or Afghani,
 and in the great Empire of India it is found in various forms.
 
@@ -4831,7 +4808,7 @@ literature.
 He wrote a friend concerning his little study "where I have a sofa full
 of books, as of old, and the two verse books lying about on it, and a
 volume of Herodotus; and where I sit up and read or write till twelve or
-one o'clock." Plato's "Phædo" was a great favorite. He thought it
+one o'clock." Plato's "PhÃ¦do" was a great favorite. He thought it
 "nearly the perfection of human language."
 
 To another he wrote, "One of my most useful books is dear old Tottle's
@@ -6280,7 +6257,7 @@ shot against Fort Sumter has opened the only door out of this hour.
 There were but two. One was compromise; the other was battle.... The
 South opened this with cannon shot, and Lincoln shows himself at the
 door. The war, then, is not aggressive, but in self-defence, and
-Washington has become the Thermopylæ of liberty and justice. Rather than
+Washington has become the ThermopylÃ¦ of liberty and justice. Rather than
 surrender that capital, cover every square foot of it with a living
 body; crowd it with a million of men, and empty every bank vault at the
 North to pay the cost. Teach the world once for all, that North America
@@ -7272,7 +7249,7 @@ Bible."
 
 Yet when he could be at home he was a diligent reader of other
 books,--the sermons of Jonathan Edwards, of Isaac Barrow, and of Robert
-South. He pored over Loudon's Encyclopædias of Horticulture,
+South. He pored over Loudon's EncyclopÃ¦dias of Horticulture,
 Agriculture, and Architecture. He became the editor of the _Indiana
 Farmer and Gardener_.
 
@@ -7356,7 +7333,7 @@ work with all my soul, preaching night and day."
 
 The slavery question had now come to be the foremost question among the
 people. By the Missouri Compromise of 1821, slavery was not to extend
-north beyond latitude 36° 30´. When, in 1849, California asked
+north beyond latitude 36Â° 30Â´. When, in 1849, California asked
 admittance to the Union as a free State, the South, feeling that the
 balance of power would be on the side of freedom, bitterly opposed it.
 Henry Clay, the great compromiser, brought forward his "Omnibus Bill" in
@@ -7406,7 +7383,7 @@ rifles, and for Bibles as well. Some of the rifles were sent, it is
 said, in boxes marked Bibles, though without his knowledge, and were
 therefore called "Beecher's Bibles."
 
-When John C. Frémont was the first nominee of the Republicans in 1856,
+When John C. FrÃ©mont was the first nominee of the Republicans in 1856,
 Mr. Beecher, with the hearty concurrence of his church, spoke for the
 party two or three times a week all through the State of New York. An
 amusing incident occurred at Rome, N.Y., which illustrated Beecher's
@@ -7415,7 +7392,7 @@ graphic utterance.
 He said: "My friends, in this great campaign there are but two sides,
 and we must range ourselves upon one side or the other; there is no
 middle ground for any of us. On the one side is Buchanan, with the black
-shield of slavery, and upon the other is Frémont, with the white banner
+shield of slavery, and upon the other is FrÃ©mont, with the white banner
 of liberty, and with one or the other of these two you must take your
 stand; but who is this that I see crawling under the fence? Oh, that is
 Millard Fillmore." Immediately a little fellow in the front row jumped
@@ -8388,7 +8365,7 @@ tired Kingsley at thirty-two.
 "Hypatia," one of the novels which will last for centuries, was begun in
 1851. He writes to the Rev. Mr. Maurice in January, "If I do not use my
 pen to the uttermost in earning my daily bread, I shall not get through
-this year.... My available income is less than £400. I cannot reduce my
+this year.... My available income is less than Â£400. I cannot reduce my
 charities, and I am driven either to give up my curate or to write; and
 either of these alternatives, with the increased parish work, for I have
 got either lectures or night school every night in the week, and three
@@ -8563,12 +8540,12 @@ The earnest preaching, the lectures, the books and correspondence,
 continued. Many guests came now to Eversley,--Harriet Beecher Stowe and
 others from America, where his literary work seemed at first more
 appreciated than at home; Miss Bremer, the Swedish novelist, who after
-she went home sent him Tegnèr's "Frithiof's Saga," with this
+she went home sent him TegnÃ¨r's "Frithiof's Saga," with this
 inscription: "To the Viking of the New Age, Charles Kingsley, this story
 of the Vikings of the Old, from a daughter of the Vikings, his friend
 and admirer, Fredrika Bremer."
 
-Dean Stanley came; Max Müller also, and spent the first week of his
+Dean Stanley came; Max MÃ¼ller also, and spent the first week of his
 married life at the rectory--he had married a beloved niece of
 Kingsley's, the G. to whom he wrote the poem,--
 
@@ -8679,7 +8656,7 @@ well as from its boldness, to do good service in this good cause." ...
 After a journey with his daughter to the West Indies, from which came
 his book, "At Last," he returned to his multifarious duties. As
 President of the Midland Institute at Birmingham, he spoke on the
-Science of Health. As a result, a manufacturer gave £2,500 to found
+Science of Health. As a result, a manufacturer gave Â£2,500 to found
 classes and lectures on Human Physiology and the Science of Health,
 believing that physical improvement would be followed by mental and
 moral improvement.
@@ -8790,7 +8767,7 @@ A great crowd of all classes stood around that open grave, and later,
 little children who had loved the "Water-babies" came often and laid
 flowers upon the mound.
 
-"Few eyes were dry," says Max Müller, "when he was laid in his own
+"Few eyes were dry," says Max MÃ¼ller, "when he was laid in his own
 gravel bed, the old trees which he had planted and cared for waving
 their branches to him for the last time.... He will be mourned for,
 yearned for, in every place in which he passed some days of his busy
@@ -8934,7 +8911,7 @@ with rod and gun. He studied well while at West Point, standing high in
 drawing, chemistry, mathematics, and philosophy, reaching the sixth
 place in a class of forty-three at his graduation in 1840.
 
-He was never fond of display, and had no relish for the minutiæ of dress
+He was never fond of display, and had no relish for the minutiÃ¦ of dress
 and drill. "Men who have successfully conducted great campaigns, and
 fought great battles, have not," says Mr. Smalley, "as a rule, taken
 much interest in the polishing of buttons, or the exact alignment of a
@@ -8981,7 +8958,7 @@ They brought a saw-mill and a grist-mill with them to the new country.
 Living was cheap, as cattle cost but eight dollars and fifty cents for
 the best, or about two cents a pound.
 
-Sherman soon met Colonel Frémont, afterwards a candidate for the
+Sherman soon met Colonel FrÃ©mont, afterwards a candidate for the
 Presidency, General Kearney, and other officers noted in those early
 days of California. San Francisco was called Yerba Buena, and Sherman
 felt almost insulted when asked if he wished to invest money in land "in
@@ -9988,7 +9965,7 @@ the mud by corduroying them with rails and split trees.
 
 The Confederate General Johnston said later, in the hearing of General
 Cox, concerning this part of the march, "he had made up his mind that
-there had been no such army since the days of Julius Cæsar."
+there had been no such army since the days of Julius CÃ¦sar."
 
 "Whoever will consider," says General Cox, "the effect of dragging the
 artillery and hundreds of loaded army wagons over mud roads, in such a
@@ -10218,7 +10195,7 @@ distinguished generals was Joseph E. Johnston from the South, who was
 also at the funeral of Grant, and for whom both the Northern generals
 had great respect and admiration.
 
-As the funeral _cortège_ passed along, appropriate selections were
+As the funeral _cortÃ¨ge_ passed along, appropriate selections were
 played by the bands. Gilmore's band electrified all hearts by the song
 turned into a dirge, composed for Sherman by Henry C. Work.
 
@@ -10543,7 +10520,7 @@ probation.
 He would not promise for more than three months. At the end of that time
 the church had filled so rapidly, that he was called to the pastorate;
 and before he was twenty, in 1854, was installed over the Baptist
-Church, with a salary of £150 a year. He came, as he says, to the great
+Church, with a salary of Â£150 a year. He came, as he says, to the great
 city of London, "a country lad," "wondering, praying, fearing, hoping,
 believing, ... all alone, and yet not alone; expectant of Divine help,
 and inwardly borne down by our sense of the need of it."
@@ -10595,7 +10572,7 @@ to preach.
 After this, services were held only in the morning, attended by the
 Prime Minister, the nobility, and the poor. Large numbers were
 converted. Thirty-five years after this time a Surrey Gardens Memorial
-Hall was erected near this spot, at a cost of £3,000, as one of the many
+Hall was erected near this spot, at a cost of Â£3,000, as one of the many
 mission-homes in connection with the Tabernacle work. This commemorates
 the many conversions in these early days, before the Tabernacle was
 built.
@@ -10623,7 +10600,7 @@ The Tabernacle is one hundred and forty-six feet in length, and
 eighty-one in width. There are five thousand five hundred sittings, and
 many more can be accommodated. Besides the audience-room, there are
 rooms for Sunday-schools, working-meetings, and the like. The cost was a
-little over £31,000, all raised by voluntary effort. All denominations
+little over Â£31,000, all raised by voluntary effort. All denominations
 gave, and all parts of the country responded. Mr. Spurgeon spoke in
 Scotland, giving half the receipts to some needy pastorate, and
 reserving half for his new church. The church building has always been
@@ -10667,7 +10644,7 @@ any conversions."
 expect great things from God, you'll get them; if you don't, you won't."
 
 "The large sale of my sermons in America, together with my dear wife's
-economy," writes Mr. Spurgeon, "enabled me to spend from £600 to £800 a
+economy," writes Mr. Spurgeon, "enabled me to spend from Â£600 to Â£800 a
 year in my own favorite work; but on a sudden--owing to my denunciations
 of the then existing slavery in the States--my entire resources from
 that 'Brook Cherith' were dried up. I paid as large sums as I could from
@@ -10694,19 +10671,19 @@ it for fear I should break it."
 
 "I was reduced to the last pound," says Mr. Spurgeon, "when a letter
 came from a banker in the city, informing me that a lady, whose name I
-have never been able to discover, had deposited a sum of £200, to be
+have never been able to discover, had deposited a sum of Â£200, to be
 used for the education of young men for the ministry.... Some weeks
-after, another £100 came in from the same bank, as I was informed, from
+after, another Â£100 came in from the same bank, as I was informed, from
 another hand.... A supper was given by my liberal publishers, Messrs.
 Passmore & Alabaster, to celebrate the publishing of my five-hundredth
-weekly sermon, at which £500 were raised and presented to the funds. The
+weekly sermon, at which Â£500 were raised and presented to the funds. The
 college grew every month, and the number of the students rapidly
 increased from one to forty."
 
 A "weekly offering" was soon taken at the church for the Pastor's
-College. This in the year 1869 amounted to £1,869. When "seasons of
+College. This in the year 1869 amounted to Â£1,869. When "seasons of
 straitness" came, as Spurgeon says, the "Lord always interposed." On one
-occasion, £1,000 came from an unknown source.
+occasion, Â£1,000 came from an unknown source.
 
 Mr. G. Holden Pike says of these weekly offerings, "How high a figure
 the total reached nobody knew; for, as Sunday is a day of rest, the
@@ -10720,13 +10697,13 @@ was as much as one could conveniently raise from the table with one
 arm."
 
 A yearly supper was provided by Mr. Spurgeon, at which guests gave as
-they were able or inclined. At this supper in 1891, £3,000 were
+they were able or inclined. At this supper in 1891, Â£3,000 were
 subscribed.
 
 After a time the College buildings were erected near the Tabernacle
-property. A lady gave £3,000 as a memorial to her husband; £2,000 were
+property. A lady gave Â£3,000 as a memorial to her husband; Â£2,000 were
 left as a legacy by a reader of the sermons. The cost of the buildings,
-£15,000, was paid as soon as the work was done.
+Â£15,000, was paid as soon as the work was done.
 
 The whole number added to the churches by these men educated at the
 Pastor's College is, as nearly as can be ascertained, considerably over
@@ -10740,45 +10717,45 @@ German, Danish, and other languages.
 
 In 1866 another important work was laid upon the busy preacher, whose
 hands seemed already full. The widow of an Episcopal clergyman, Mrs.
-Hillyard, was desirous of giving £20,000 to found an orphanage for boys.
+Hillyard, was desirous of giving Â£20,000 to found an orphanage for boys.
 She was personally unknown to Mr. Spurgeon, but had read his sermons,
 and had great faith in his spirituality and sense.
 
-Another lady, her husband having given her £500 on the twenty-fifth
+Another lady, her husband having given her Â£500 on the twenty-fifth
 anniversary of their marriage, made a present of it to the Orphanage.
 One house was built with it, called "The Silver Wedding House." A
-gentleman gave £600 for another house; an unknown donor £1,000 for two
-other houses, and soon after £2,000 more.
+gentleman gave Â£600 for another house; an unknown donor Â£1,000 for two
+other houses, and soon after Â£2,000 more.
 
-In 1868 the Baptist churches of England gave Mr. Spurgeon £1,765 for the
+In 1868 the Baptist churches of England gave Mr. Spurgeon Â£1,765 for the
 Orphanage. One building is called "The Merchant's House;" another, "The
 Workmen's House."
 
 At the close of 1869, all the buildings or houses for the orphan boys
 were completed in Stockwell, on the Clapham Road, free from debt, at a
-cost of £10,200, Mrs. Hillyard's funds being used for endowment.
+cost of Â£10,200, Mrs. Hillyard's funds being used for endowment.
 
 When the funds were low,--for Mr. Spurgeon says, "Our boys persist in
 eating, and wearing out their clothes,"--money was raised by a bazaar,
-by a _fête_ on his birthday, or in some other way.
+by a _fÃªte_ on his birthday, or in some other way.
 
 The long row of attractive houses for boys did not fill Mr. Spurgeon's
 heart; there must be similar homes for girls.
 
 In September, 1879, Mr. Spurgeon writes, "Our friends know that we
-bought a house and grounds called 'The Hawthorns,' for £4,000. This we
+bought a house and grounds called 'The Hawthorns,' for Â£4,000. This we
 needed to pay for. For various reasons the payment of the purchase-money
 for 'The Hawthorns' was delayed until July 30; and _on that very
 morning_ we received a letter telling us that a gentleman had died, and
-left £1,500 for the Girls' Orphanage, thus bringing up our total to
-within a very small sum of the amount required. The whole £4,000 is now
+left Â£1,500 for the Girls' Orphanage, thus bringing up our total to
+within a very small sum of the amount required. The whole Â£4,000 is now
 secured, including this legacy, and the property is our own."
 
-Not long after, the £11,000 necessary for the first block of buildings
+Not long after, the Â£11,000 necessary for the first block of buildings
 was obtained.
 
 In January, 1882, a great bazaar was held, which in three days netted
-the sum of £2,000 for the Girls' Orphanage. In his opening speech at
+the sum of Â£2,000 for the Girls' Orphanage. In his opening speech at
 this bazaar Mr. Spurgeon said, "We don't want to sell anything that is
 not worth the money paid for it; for we think that such should not be
 the case when the object is to benefit orphan children. When you leave
@@ -10849,8 +10826,8 @@ Canon Basil Wilberforce, the son of the Bishop, the Rev. Dr. Newman
 Hall, and others spoke. The Rev. Dr. O. P. Gifford presented an address
 from the Baptist ministers of Boston and vicinity.
 
-A Spurgeon Jubilee Fund of £45,000 was given at this time. Five years
-previously a larger sum was given him, £3,000 of it being raised by a
+A Spurgeon Jubilee Fund of Â£45,000 was given at this time. Five years
+previously a larger sum was given him, Â£3,000 of it being raised by a
 bazaar; and a large part of this money was used for seventeen
 almshouses, in which are the aged members of the Tabernacle. These are
 near the Elephant and Castle Station.
@@ -12568,7 +12545,7 @@ portraits. 12mo. $1.50.
 FAMOUS MEN OF SCIENCE.
 
 By SARAH K. BOLTON. Short biographical sketches of Galileo, Newton,
-Linnæus, Cuvier, Humboldt, Audubon, Agassiz, Darwin, Buckland, and
+LinnÃ¦us, Cuvier, Humboldt, Audubon, Agassiz, Darwin, Buckland, and
 others. Illustrated with 15 portraits. 12mo. $1.50.
 
 
@@ -12793,366 +12770,4 @@ THOMAS Y. CROWELL & CO.,       New York and Boston.
 
 End of Project Gutenberg's Famous leaders among men, by Sarah Knowles Bolton
 
-*** END OF THIS PROJECT GUTENBERG EBOOK FAMOUS LEADERS AMONG MEN ***
-
-***** This file should be named 57666-8.txt or 57666-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/6/6/57666/
-
-Produced by Martin Pettit and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive/American Libraries.)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 57666 ***
